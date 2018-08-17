@@ -1,3 +1,5 @@
+[![DepShield Badge](https://depshield.sonatype.org/badges/{Mohan18}/{Sample-Project}/depshield.svg)](https://depshield.github.io)
+
 # Dead simple, boiler plate getting started Java app with maven
 Skeleton Java project with a vanilla maven file with minimal options to get you started.
 
